@@ -4,7 +4,9 @@ A bioinformatics tool for tag pileup
 
 
 
-## The python code takes four inputs:
+## The python code: 
+
+It takes four inputs
 
 1- A gff file *
 
